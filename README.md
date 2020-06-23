@@ -1,19 +1,17 @@
-# vue_shop
+#### 技术栈
+- Vue
+- axios
+- vue-router
+- ElementUI
+- less
+- .....
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### 预览
+![](https://raw.githubusercontent.com/onlywyj/vue-shop/master/README_img/00.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![](https://raw.githubusercontent.com/onlywyj/vue-shop/master/README_img/01.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](./README_img/00.png)
+
+![](./README_img/01.png)
